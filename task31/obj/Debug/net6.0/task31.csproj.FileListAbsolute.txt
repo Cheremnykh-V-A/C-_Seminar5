@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Учеба\Введение в С#\c#\seminar5\task31\obj\Debug\net6.0\task31.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\Введение в С#\c#\seminar5\task31\obj\Debug\net6.0\task31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба\Введение в С#\c#\seminar5\task31\obj\Debug\net6.0\task31.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\Введение в С#\c#\seminar5\task31\obj\Debug\net6.0\task31.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\Введение в С#\c#\seminar5\task31\obj\Debug\net6.0\task31.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\Введение в С#\c#\seminar5\task31\bin\Debug\net6.0\task31.exe
+C:\Users\User\Desktop\Учеба\Введение в С#\c#\seminar5\task31\bin\Debug\net6.0\task31.deps.json
+C:\Users\User\Desktop\Учеба\Введение в С#\c#\seminar5\task31\bin\Debug\net6.0\task31.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\Введение в С#\c#\seminar5\task31\bin\Debug\net6.0\task31.dll
+C:\Users\User\Desktop\Учеба\Введение в С#\c#\seminar5\task31\bin\Debug\net6.0\task31.pdb
+C:\Users\User\Desktop\Учеба\Введение в С#\c#\seminar5\task31\obj\Debug\net6.0\task31.dll
+C:\Users\User\Desktop\Учеба\Введение в С#\c#\seminar5\task31\obj\Debug\net6.0\refint\task31.dll
+C:\Users\User\Desktop\Учеба\Введение в С#\c#\seminar5\task31\obj\Debug\net6.0\task31.pdb
+C:\Users\User\Desktop\Учеба\Введение в С#\c#\seminar5\task31\obj\Debug\net6.0\task31.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\Введение в С#\c#\seminar5\task31\obj\Debug\net6.0\ref\task31.dll
